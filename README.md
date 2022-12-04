@@ -15,10 +15,8 @@
     <img alt="Kaggle" src="https://img.shields.io/badge/github-20BEFF?style=for-the-badge&logo=github&logoColor=black">
   </a> 
 <br>
-<br>
 **Talking about Personal Stuffs:**
 	<br>
-<br>
 - 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 - 📝 I have interest mysql databases
 - 🌟 Main languages: php, JavaScript
