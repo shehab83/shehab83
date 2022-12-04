@@ -50,14 +50,15 @@
 
    <a href="" target="_blank">
     <img alt="Scikit" src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP">
-  </a>PH
+  </a>PHP
    <a href="" target="_blank">
     <img alt="Scikit"  src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel">
   </a>MySQL
   
    <a href="" target="_blank">
     <img alt="Scikit"  src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48" alt="livewire">
-  </a>Livewire<br>
+  </a>Livewire
+	<br>
    <a href="" target="_blank">
     <img alt="Scikit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git">
   </a>Git
