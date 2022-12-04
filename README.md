@@ -16,7 +16,7 @@
   </a> 
 <br>
 **Talking about Personal Stuffs:**
-	<br>
+	
 - 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 - 📝 I have interest mysql databases
 - 🌟 Main languages: php, JavaScript
