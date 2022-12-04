@@ -1,11 +1,10 @@
 <h1> Hello Fellow < Shehab/ >!  </h1>
-
-<!-- <img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/> -->
   
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=17&pause=1015&color=5324F7&width=479&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+a+Full+Stack+developer;Always+learning+new+things;And+we+help+others;Freelance" alt="Typing SVG" /></a>
+<a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=17&pause=1015&color=5324F7&width=479&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+a+Full+Stack+developer;Always+learning+new+things;And+we+help+others;Freelance" alt="Typing SVG" /></a>
 
-   <a href="https://www.linkedin.com/in/shehab-mohamed-b81b0a238/" target="_blank">
+<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=250/>
+   <a align="left" href="https://www.linkedin.com/in/shehab-mohamed-b81b0a238/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
   
