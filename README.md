@@ -55,7 +55,7 @@
   
    <a href="" target="_blank">
     <img alt="Scikit"  src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48" alt="livewire">
-  </a>Livewire
+  </a>Livewire<br>
    <a href="" target="_blank">
     <img alt="Scikit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git">
   </a>Git
