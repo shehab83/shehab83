@@ -13,8 +13,9 @@
   </a>  
   <a href="https://github.com/shehab83" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/github-20BEFF?style=for-the-badge&logo=github&logoColor=black">
-  </a>  <br>
-
+  </a> 
+<br>
+<br>
 **Talking about Personal Stuffs:**
 	
 - 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
