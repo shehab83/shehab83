@@ -1,6 +1,6 @@
 <h1> Hello Fellow < Shehab/ >!  </h1>
 
-  <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=17&pause=1015&color=5324F7&width=479&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+a+Full+Stack+developer;Always+learning+new+things;And+we+help+others;Freelance" alt="Typing SVG" /></a>
